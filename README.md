@@ -1,3 +1,3 @@
-Small Trivia app relying on jService.io api to display random trivia questionsto users.
+Small Trivia app relying on [jService.io](http://jservice.io/) api to display random trivia questionsto users.
 
 Feature and Pull requests are appreciated
