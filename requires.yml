@@ -3,6 +3,9 @@ javascripts:
     - lib/jquery.min.js
     - lib/underscore.js
     - lib/backbone.js
+    - models/api_call.js
+    - models/category.js
+    - models/question.js
     - app.js
   specs:
     - lib/jasmine-jquery.js
