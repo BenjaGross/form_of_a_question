@@ -1,0 +1,11 @@
+javascripts:
+  files:
+    - lib/jquery.min.js
+    - lib/underscore.js
+    - lib/backbone.js
+    - app.js
+  specs:
+    - lib/jasmine-jquery.js
+    - spec/category.spec.js
+    - spec/question.spec.js
+    - spec/test_data.json
