@@ -4,11 +4,10 @@ var Question = Backbone.Model.extend({
   },
   markCorrect: function(){
     // add score
-  }
+  },
   markIncorrect: function(){
     // subtract Score
   }
 
 
-
-})
+});

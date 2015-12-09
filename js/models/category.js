@@ -9,7 +9,7 @@ var Category = Backbone.Model.extend({
     // takes five questions from category
   },
   buildQuestion: function(){
-    adds question to category
+    // adds question to category
   }
 
 });
