@@ -9,5 +9,4 @@ var Question = Backbone.Model.extend({
     // subtract Score
   }
 
-
 });
