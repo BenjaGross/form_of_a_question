@@ -4,6 +4,9 @@ describe("Question Model", function() {
   it("should exist", function() {
     expect(Question).toBeDefined();
   });
+  it("should have a text", function(){
+    expect(test_question.text).toEqual("????")
+  });
   it("should have a value", function(){
     expect(test_question.answer).toEqual("skiing");
   });
