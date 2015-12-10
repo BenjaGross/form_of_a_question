@@ -1,0 +1,18 @@
+{
+  "name": "form_of_a_question",
+  "homepage": "https://github.com/BenjaGross/form_of_a_question",
+  "authors": [
+    "BenjaGross <benja.j.gross@gmail.com>"
+  ],
+  "description": "jeopardy question display",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
