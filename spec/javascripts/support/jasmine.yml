@@ -11,8 +11,11 @@
 #   - dist/**/*.js
 #
 src_files:
+  - js/lib/underscore-min.js
+  - js/lib/*.js
   - public/javascripts/**/*.js
-
+  - js/app.js
+  - js/**/*.js
 # stylesheets
 #
 # Return an array of stylesheet filepaths relative to src_dir to include before jasmine specs.
@@ -52,7 +55,6 @@ helpers:
 #
 spec_files:
   - '**/*[sS]pec.js'
-  - '../category.spec.js'
 
 # src_dir
 #
