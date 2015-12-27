@@ -6,4 +6,8 @@ describe("API Call", function() {
     // Fail!
   });
 
+  it("getCategory should return a json object", function() {
+    expect(APICall.getCategory()), to be(json)
+  });
+
 });
