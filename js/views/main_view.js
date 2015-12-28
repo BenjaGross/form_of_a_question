@@ -11,6 +11,6 @@ var MainView = Backbone.View.extend({
     return this;
   },
   getQuestion : function(){
-    // Calls API and returns a random question
+    debugger;
   }
 });
