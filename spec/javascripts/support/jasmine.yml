@@ -12,8 +12,10 @@
 #
 src_files:
   - js/lib/underscore-min.js
+  - js/lib/jquery-min.js
   - js/lib/*.js
   - js/models/*.js
+  - js/views/*.js
   - js/app.js
   - js/**/*.js
 # stylesheets
