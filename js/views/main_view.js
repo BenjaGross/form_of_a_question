@@ -10,7 +10,7 @@ var MainView = Backbone.View.extend({
     this.$el.append(html);
     return this;
   },
-  getQuestion : function(){
+  getCategory : function(){
     debugger;
   }
 });
